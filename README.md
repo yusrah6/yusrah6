@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**yusrah6/yusrah6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yusrah Khan
 
-Here are some ideas to get you started:
+I'm a **Junior Software Engineer** focused on gaining hands-on experience and continuously improving my coding skills.  
+I enjoy building projects, learning new technologies, and strengthening my problem-solving abilities through real-world practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+-  Junior Software Engineer
+-  Currently focused on improving backend and full-stack development skills
+-  Passionate about learning through projects and experimentation
+
+---
+
+##  Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- Java
+- HTML
+- CSS
+
+### Frameworks & Runtime
+- Django
+- Node.js
+
+### Databases
+- MySQL
+
+### Tools & Technologies
+- Docker
+- Git & GitHub
+---
+
+##  How to reach me 
+- my email is yusrahkhan06@gmail.com or send me a message on Linkedin 
+
+---
+
+⭐ *Thanks for stopping by!*
