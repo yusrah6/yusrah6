@@ -28,7 +28,8 @@ I enjoy building projects, learning new technologies, and strengthening my probl
 - Node.js
 
 ### Databases
-- MySQL
+- SQL
+- SQLite
 
 ### Tools & Technologies
 - Docker
