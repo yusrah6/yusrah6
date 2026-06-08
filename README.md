@@ -19,7 +19,6 @@ I enjoy building projects, learning new technologies, and strengthening my probl
 ### Languages
 - JavaScript
 - Python
-- Java
 - HTML
 - CSS
 
